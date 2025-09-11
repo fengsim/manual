@@ -24,5 +24,7 @@
 
 如上图，在左侧工具栏中有网格文件的树形结构。modal.inp是根节点，子节点包括单元组和节点组，support、pipe、sphere\_tank为单元组，pip\_fixed\_nodes、fixed\_nodes、inner\_surface\_nodes、outer\_surface\_nodes为节点组。点击support，再点击工具栏中的选择材料，再点击材料模型（**这个材料模型是否去掉，或者增加另外一个选项**），弹出对话框，如下图，可以选择Aluminum alloys，点击右下角应用按钮确认。
 
+![项目截图](./fig/3.png)
+
 #### 设置边界条件
 
